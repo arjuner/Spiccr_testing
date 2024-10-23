@@ -1,5 +1,5 @@
 # Spiccr_testing
-##Controlling DC Worm Gear motors with Raspberry Pi 4B 4GB with Waveshare HRB8825 Stepper Motor HAT
+#Controlling DC Worm Gear motors with Raspberry Pi 4B 4GB with Waveshare HRB8825 Stepper Motor HAT
 
 ##Raspberry PI 4B
 ##purchase link: https://robu.in/product/raspberry-pi-4-model-b-with-4-gb-ram/
