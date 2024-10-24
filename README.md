@@ -15,3 +15,7 @@ Documentation: https://www.waveshare.com/wiki/Stepper_Motor_HAT_(B)
 
 Solodrive.py is for controlling one motor on the HAT.
 Dualdrive.py for two motors on HAT
+
+
+Testing via Daughter borad on Raspberry pi 4B
+run boardtest.py
